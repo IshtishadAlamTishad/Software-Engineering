@@ -54,11 +54,10 @@ Electricity is the cornerstone of Bangladesh's economic growth. However, frequen
 After installation, you can run the system to monitor the grid, predict electricity demand, and get real-time insights into energy distribution. The AI algorithms help make decisions on energy management to ensure efficient power flow.
 
 ### Screenshots
-![Dashboard](images/dashboard.png)
-*Image 1: The real-time electricity usage dashboard.*
+![image](https://github.com/user-attachments/assets/45bf4dd0-c285-43a7-9f74-4cbaad763a58)
 
-![Demand Forecasting](images/demand_forecasting.png)
-*Image 2: AI-based demand forecasting module.*
+Figure : Work breakdown structure
+
 
 ## Team Members
 
