@@ -30,28 +30,6 @@ Electricity is the cornerstone of Bangladesh's economic growth. However, frequen
 - Automated outage detection and reporting
 - Consumer engagement through mobile applications
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd your-repo-name
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Start the application:
-    ```bash
-    python app.py
-    ```
-
-## Usage
-
-After installation, you can run the system to monitor the grid, predict electricity demand, and get real-time insights into energy distribution. The AI algorithms help make decisions on energy management to ensure efficient power flow.
 
 ### Screenshots
 ![image](https://github.com/user-attachments/assets/45bf4dd0-c285-43a7-9f74-4cbaad763a58)
